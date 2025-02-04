@@ -25,3 +25,7 @@ Bienvenido/a a mi tienda en línea. 🚀 Este proyecto es una aplicación web cr
 ```bash
 git clone https://github.com/juliagomezg/mi-tiendita-online.git
 
+👩‍💻 Autora
+Julia Gomez - Desarrolladora Web
+LinkedIn: https://linkedin.com//in/juliagomezg | GitHub: https://github.com/juliagomezg/
+
